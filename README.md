@@ -206,6 +206,6 @@ markdown
 
 ## 📎 Ficheiros
 
-- [Relatório executivo (PDF)](./relatorio/pib-provincia-relatorio-executivo.pdf)
-- [Ficheiro Excel (dados, tabelas dinâmicas e cálculos)](./excel/pib-provincia-2025.xlsx)
-- [Documento de contextualização do projeto (PDF)](./documentacao/contextualizacao-projeto.pdf)
+- [Relatório executivo (PDF)](./relatorio/PIB_Provincia_Relatorio_Executivo.pdf)
+- [Ficheiro Excel (dados, tabelas dinâmicas e cálculos)](./excel/PIB_POR_PROVÍNCIA_2025_(1).xlsx)
+- [Documento de contextualização do projeto (PDF)](./documentacao/Documento_de_Contextualização_do_Projeto.pdf)
