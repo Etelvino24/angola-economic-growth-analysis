@@ -82,13 +82,13 @@ recomendações apresentados separadamente deste documento de contextualização
 > ⚠️ Como o próprio projeto reconhece: a análise identifica relações estatísticas e permite
 > comparar desempenho entre províncias — mas não isola causas específicas (eventos económicos,
 > sociais ou institucionais) nem prova causalidade. É um mapa do *o quê*, não do *porquê*.
-
+<img width="1339" height="598" alt="image" src="https://github.com/user-attachments/assets/e6bc060a-87ed-4e85-a689-a1bf721cc63c" />
 
 ## 📈 Dashboard
-![alt text](image-19.png)
-![alt text](image-18.png)
-![alt text](image-20.png)
-![alt text](image-21.png)
+<img width="1343" height="605" alt="image" src="https://github.com/user-attachments/assets/6017896b-dbf7-45e4-9d21-01852c9226d6" />
+<img width="1340" height="598" alt="image" src="https://github.com/user-attachments/assets/76698217-86e1-421b-b9cb-fca5c374c6af" />
+<img width="1340" height="601" alt="image" src="https://github.com/user-attachments/assets/c0f516f2-375d-4367-a055-d12a39f53590" />
+
 
 ### 💡 Descobertas
 
