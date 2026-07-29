@@ -89,36 +89,6 @@ recomendações apresentados separadamente deste documento de contextualização
 <img width="1340" height="601" alt="image" src="https://github.com/user-attachments/assets/c0f516f2-375d-4367-a055-d12a39f53590" />
 <img width="1339" height="598" alt="image" src="https://github.com/user-attachments/assets/e6bc060a-87ed-4e85-a689-a1bf721cc63c" />
 
-### 💡 Descobertas
-
-- **A economia angolana está fortemente concentrada, não distribuída.** Nove das 18 províncias
-  (metade) respondem por 81,3% do PIB nacional, e Luanda sozinha pesa 31,8% — mais do que a soma
-  das nove províncias de menor contribuição. A concentração reduz a diversificação territorial da
-  economia e aumenta a dependência do desempenho de poucas regiões.
-
-- **O crescimento acumulado (2020-2025) foi liderado por Benguela (+64,4%), não por Luanda.**
-  As províncias de maior crescimento têm perfis produtivos diferentes entre si — sinal de uma
-  expansão relativamente diversificada, não concentrada num único tipo de economia. Um caso
-  particular: Bengo partiu de crescimento negativo e reverteu para o 5º maior crescimento
-  acumulado do país, evidenciando mudanças reais na dinâmica regional.
-
-- **A consistência do crescimento não depende do tamanho da economia.** Entre as províncias mais
-  estáveis (menor variação ano a ano) estão tanto Luanda — a maior economia do país — como Uíge e
-  Cuanza Norte, de participação muito menor no PIB. Isto sugere que previsibilidade económica é uma
-  característica da dinâmica local, não do porte da província.
-
-- **Nem todo o crescimento nominal é crescimento real — e isso varia por província.** A
-  decomposição preço × volume identificou três perfis distintos: províncias com **crescimento real
-  forte** (preço e volume ambos a subir, ex.: Benguela, Bengo, Malanje); províncias sob **pressão de
-  preços** (crescimento nominal puxado principalmente por preço, com volume quase estagnado, ex.:
-  Luanda, Namibe); e um grupo de **risco** — Cabinda, Cuando Cubango e Zaire — onde o preço sobe mas
-  o volume **cai**, ou seja, o crescimento nominal mascara uma retração real da produção.
-
-- **O país tem um perfil produtivo dual: litoral em Serviços/Indústria, interior em
-  Agropecuária.** Luanda é a província mais dependente de Serviços; Zaire lidera em peso industrial
-  (provavelmente ligado à atividade petrolífera); já Uíge, Malanje, Cuanza Sul, Huambo, Bié e
-  Benguela mantêm a Agropecuária como base produtiva dominante.
-
 ## 💡 Descobertas
 
 - **A economia angolana está fortemente concentrada, não distribuída.** Nove das 18 províncias
