@@ -119,47 +119,6 @@ recomendações apresentados separadamente deste documento de contextualização
   (provavelmente ligado à atividade petrolífera); já Uíge, Malanje, Cuanza Sul, Huambo, Bié e
   Benguela mantêm a Agropecuária como base produtiva dominante.
 
-
-## 📂 Estrutura deste projeto
-Claude terminou a resposta
-Ponderou proteção de planilha versus criptografia de arquivo
-Ponderou proteção de planilha versus criptografia de arquivo
-
-Depende do que queres impedir — são dois tipos de "trava" diferentes no Excel, e para um ficheiro que vai para um portfólio público no GitHub a escolha importa. Deixa-me explicar as duas, e diz-me qual é a tua intenção.
-
-Opção A — Proteger a folha/livro contra edição (mais comum para portfólio)
-
-Impede que alguém altere fórmulas, mova gráficos ou desorganize as tabelas dinâmicas — mas continua a abrir normalmente, sem pedir password. É o que normalmente queres num ficheiro de portfólio: alguém pode abrir e ver, mas não estraga o teu trabalho sem querer (ou por curiosidade "para copiar").
-
-Separador Revisão (Review) → Proteger Folha (Protect Sheet), para cada folha que quiseres travar.
-Podes definir uma password aqui também (opcional) — se quiseres que só tu consigas desproteger para editar depois.
-Para travar a estrutura toda do livro (impedir apagar/mover/renomear folhas): Revisão → Proteger Estrutura do Livro (Protect Workbook).
-Opção B — Encriptar o ficheiro inteiro com password (impede até abrir)
-
-Isto é mais restritivo — ninguém consegue sequer abrir o ficheiro sem saber a password.
-
-Ficheiro (File) → Informações (Info) → Proteger Livro (Protect Workbook) → Encriptar com Password (Encrypt with Password).
-
-Atenção com esta opção num repositório público: se encriptares o .xlsx e alguém no GitHub tentar abrir para ver o teu trabalho, não consegue — o ficheiro fica efetivamente inútil para quem só quer avaliar o teu portfólio, a não ser que reveles a password nalgum lado (o que anula o propósito de a teres posto).
-
-A minha recomendação
-
-Para o objetivo de portfólio (mostrar o trabalho, impedir alteração descuidada), a Opção A é a que faz sentido — protege sem bloquear o acesso a quem só quer ver.
-
-Só para confirmar: era isto que querias (impedir edição, mantendo visível), ou o teu objetivo era mesmo impedir que alguém abra o ficheiro de todo?
-
-PDF
-
-Para teres uma noção mais completa de todo resultado/descobertas e tudo.
-
-Sintetizou descobertas do projeto e identificou inconsistência técnica
-Sintetizou descobertas do projeto e identificou inconsistência técnica
-
-Obrigado — isto dá-me a imagem completa. Vou sinalizar uma coisa primeiro, porque se repete: o rodapé deste relatório (página 1 e última página) também aponta para github.com/Etelvino24/Dataset-projetos — o mesmo link desatualizado que já tinha reparado no documento de contextualização. Vale a pena corrigires nos dois PDFs antes de os subires, para não teres dois ficheiros a apontar para o repositório errado.
-
-Agora, as Descobertas — condensadas no mesmo estilo que usámos no e-commerce, uma frase-âncora por achado, seguida do que a sustenta:
-
-markdown
 ## 💡 Descobertas
 
 - **A economia angolana está fortemente concentrada, não distribuída.** Nove das 18 províncias
